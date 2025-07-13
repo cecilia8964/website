@@ -1,6 +1,6 @@
 @font-face {
   font-family: 'SVN-Gilroy';
-  src: url('../source/font/light.woff2') format('woff2');
+  src: url('https://github.com/cecilia8964/website/raw/refs/heads/main/source/font/light.woff2') format('woff2');
   font-weight: 300;
   font-style: normal;
 }
