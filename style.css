@@ -1,27 +1,27 @@
 @font-face {
   font-family: 'SVN-Gilroy';
-  src: url('https://github.com/cecilia8964/website/raw/refs/heads/main/source/font/light.woff2') format('woff2');
+  src: url('https://cecilia8964.github.io/website/source/font/light.woff2') format('woff2');
   font-weight: 300;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'SVN-Gilroy';
-  src: url('../source/font/medium.woff2') format('woff2');
+  src: url('https://cecilia8964.github.io/website/source/font/medium.woff2') format('woff2');
   font-weight: 500;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'SVN-Gilroy';
-  src: url('../source/font/medium-italic.woff2') format('woff2');
+  src: url('https://cecilia8964.github.io/website/source/font/medium-italic.woff2') format('woff2');
   font-weight: 500;
   font-style: italic;
 }
 
 @font-face {
   font-family: 'SVN-Gilroy';
-  src: url('../source/font/xlight-italic.woff2') format('woff2');
+  src: url('https://cecilia8964.github.io/website/source/font/xlight-italic.woff2') format('woff2');
   font-weight: 200;
   font-style: italic;
 }
