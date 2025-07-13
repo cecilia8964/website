@@ -1,27 +1,27 @@
 @font-face {
   font-family: 'SVN-Gilroy';
-  src: url('/source/font/light.woff2') format('woff2');
+  src: url('source/font/light.woff2') format('woff2');
   font-weight: 300;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'SVN-Gilroy';
-  src: url('/source/font/medium.woff2') format('woff2');
+  src: url('source/font/medium.woff2') format('woff2');
   font-weight: 500;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'SVN-Gilroy';
-  src: url('/source/font/medium-italic.woff2') format('woff2');
+  src: url('source/font/medium-italic.woff2') format('woff2');
   font-weight: 500;
   font-style: italic;
 }
 
 @font-face {
   font-family: 'SVN-Gilroy';
-  src: url('/source/font/xlight-italic.woff2') format('woff2');
+  src: url('source/font/xlight-italic.woff2') format('woff2');
   font-weight: 200;
   font-style: italic;
 }
