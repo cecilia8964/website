@@ -182,7 +182,6 @@ h3 {
     height: 100vh;
     object-fit: cover;
     z-index: -1;
-    filter: blur(6px);
     animation: slideInDown 1s ease-out forwards;
   }
 
@@ -225,6 +224,7 @@ h3 {
   color: rgb(255, 255, 255);
   text-decoration: none;
 }
+
 
 .text-shadow {
   text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.3);
